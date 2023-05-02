@@ -28,5 +28,6 @@ The dataset includes information of sales of different car models with features 
 
 ![enter image description here](https://github.com/Vimal1893/-EDA_on_used_cars_dataset/blob/main/finger-3530353_960_720.png?raw=true)
 
-You can check the link [here](https://github.com/Vimal1893/EDA_IMDb_Movies/blob/main/IMDb_movies.ipynb)
+You can check the link [here](https://github.com/Vimal1893/-EDA_on_used_cars_dataset/blob/main/Analysis%20on%20Used%20Cars%20-%20Vimal%20Kumar.ipynb)
+
 :star: :fire: :star:
